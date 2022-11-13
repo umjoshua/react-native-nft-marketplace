@@ -1,6 +1,5 @@
 # react-native-nft-marketplace
-This is a demo docker application.
-This demo app has a simple user profile app using node js and mongodb.
+This is a react native demo application.
 
 ## To start the application
 1. 
