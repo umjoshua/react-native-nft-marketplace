@@ -2,11 +2,9 @@
 This is a react native demo application.
 
 ## To start the application
-1. 
 ```sh
 $ npm i
 ```
-2. 
 ```sh
 $ npm start
 ```
